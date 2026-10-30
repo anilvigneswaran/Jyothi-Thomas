@@ -1,0 +1,29 @@
+{
+  "name": "jyothi-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter-tight": "^5.1.1",
+    "@fontsource/anton": "^5.1.1",
+    "@fontsource/jetbrains-mono": "^5.1.2",
+    "gsap": "^3.12.7",
+    "lenis": "^1.1.20",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "puppeteer-core": "^25.14.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.2.0"
+  }
+}
